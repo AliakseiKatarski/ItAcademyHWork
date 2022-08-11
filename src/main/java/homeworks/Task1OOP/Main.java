@@ -7,12 +7,8 @@ package homeworks.Task1OOP;
    Найти конфету в подарке, соответствующую заданному диапазону содержания сахара.
  */
 
-import homeworks.Task1OOP.entity.entity.Gift;
-
 public class Main {
     public static void main(String[] args) {
-            Gift gift=new Gift();
-            gift.createGiftBox();
     }
 }
 
